@@ -154,7 +154,147 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1_Reference
+        weight: 1
+      - path: Character1_Reference/walktest_Hips
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_LeftUpLeg
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_LeftUpLeg/walktest_LeftUpLegRoll
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_LeftUpLeg/walktest_LeftUpLegRoll/walktest_LeftLeg
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_LeftUpLeg/walktest_LeftUpLegRoll/walktest_LeftLeg/walktest_LeftFoot
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_LeftUpLeg/walktest_LeftUpLegRoll/walktest_LeftLeg/walktest_LeftFoot/walktest_LeftToeBase
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_RightUpLeg
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_RightUpLeg/walktest_RightUpLegRoll
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_RightUpLeg/walktest_RightUpLegRoll/walktest_RightLeg
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_RightUpLeg/walktest_RightUpLegRoll/walktest_RightLeg/walktest_RightFoot
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_RightUpLeg/walktest_RightUpLegRoll/walktest_RightLeg/walktest_RightFoot/walktest_RightToeBase
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_LeftShoulder
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_LeftShoulder/walktest_LeftArm
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_LeftShoulder/walktest_LeftArm/walktest_LeftArmRoll
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_LeftShoulder/walktest_LeftArm/walktest_LeftArmRoll/walktest_LeftForeArm
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_LeftShoulder/walktest_LeftArm/walktest_LeftArmRoll/walktest_LeftForeArm/walktest_LeftHand
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_Neck
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_Neck/walktest_Head
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_RightShoulder
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_RightShoulder/walktest_RightArm
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_RightShoulder/walktest_RightArm/walktest_RightArmRoll
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_RightShoulder/walktest_RightArm/walktest_RightArmRoll/walktest_RightForeArm
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_RightShoulder/walktest_RightArm/walktest_RightArmRoll/walktest_RightForeArm/walktest_RightHand
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube5
+        weight: 1
+      - path: group/pasted__pCube5/transform1
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/polySurface6
+        weight: 1
+      - path: joint4
+        weight: 1
+      - path: joint4/joint5
+        weight: 1
+      - path: joint4/joint5/joint6
+        weight: 1
+      - path: joint4/polySurface5
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform6
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform5
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/transform4
+        weight: 1
+      - path: pCube4
+        weight: 1
+      - path: pCube4/transform3
+        weight: 1
+      - path: pCube5
+        weight: 1
+      - path: pCube5/transform2
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube6/polySurface1
+        weight: 1
+      - path: pCube6/polySurface2
+        weight: 1
+      - path: pCube6/polySurface3
+        weight: 1
+      - path: pCube6/polySurface4
+        weight: 1
+      - path: pCube6/transform7
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []
